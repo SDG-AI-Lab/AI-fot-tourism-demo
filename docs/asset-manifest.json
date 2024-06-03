@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AI-fot-tourism-demo/static/css/main.0cac7873.css",
-    "main.js": "/AI-fot-tourism-demo/static/js/main.fba43085.js",
+    "main.js": "/AI-fot-tourism-demo/static/js/main.68e5a575.js",
     "static/js/453.bcb7fdea.chunk.js": "/AI-fot-tourism-demo/static/js/453.bcb7fdea.chunk.js",
     "static/media/bg.jpg": "/AI-fot-tourism-demo/static/media/bg.0a1160c427124b27a826.jpg",
     "static/media/sponsor1.png": "/AI-fot-tourism-demo/static/media/sponsor1.24df05d7e1cb74d5bccb.png",
@@ -23,11 +23,11 @@
     "static/media/categories.svg": "/AI-fot-tourism-demo/static/media/categories.8e130b208b83c566a354.svg",
     "static/media/timeline.svg": "/AI-fot-tourism-demo/static/media/timeline.4aec54f8ba80f4c722d8.svg",
     "main.0cac7873.css.map": "/AI-fot-tourism-demo/static/css/main.0cac7873.css.map",
-    "main.fba43085.js.map": "/AI-fot-tourism-demo/static/js/main.fba43085.js.map",
+    "main.68e5a575.js.map": "/AI-fot-tourism-demo/static/js/main.68e5a575.js.map",
     "453.bcb7fdea.chunk.js.map": "/AI-fot-tourism-demo/static/js/453.bcb7fdea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cac7873.css",
-    "static/js/main.fba43085.js"
+    "static/js/main.68e5a575.js"
   ]
 }
